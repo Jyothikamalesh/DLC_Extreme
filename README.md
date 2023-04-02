@@ -1,6 +1,5 @@
 
-
-**The implementation is heavily inspired from the open source contributions of Xifeng Guo.Thank You Guo! For keeping the spirit of open source alive!**
+Run Capsnetv2.py in shell to get the weights and use that in further Neural networks 
 
 ****This directory contains****
 1) capsnet
