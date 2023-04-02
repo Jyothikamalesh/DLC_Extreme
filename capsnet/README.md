@@ -7,9 +7,7 @@
 
 #  For us validation and test set are the same
 
-###DISCLAIMER#####
 
-This is an open source implementation of a modification of Hinton's CapsNet.
 
    
  
