@@ -9,11 +9,7 @@
 
 ###DISCLAIMER#####
 
-This is an open source implementation of a modification of Hinton's CapsNet. It has been heavily inspired from the codes of Xifeng Guo. 
-
-It is open source and completely free! but DOES NOT COME WITH ANY WARRANTY! 
-
-If you use it! Please Fork it!
+This is an open source implementation of a modification of Hinton's CapsNet.
 
    
  
