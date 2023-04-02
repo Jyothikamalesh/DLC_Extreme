@@ -1,4 +1,4 @@
-
+Team TechnoCratts
 Run Capsnetv2.py in shell to get the weights and use that in further Neural networks 
 
 The dataset used is provided by Large Ensemble Community Project (LENS)
@@ -16,5 +16,6 @@ https://www.cesm.ucar.edu/community-projects/lens/data-sets
 
 3) class_transition_matrix.py
 ** dumps confusion matrix, acc, recal 
+
 
 
